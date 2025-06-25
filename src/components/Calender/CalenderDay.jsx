@@ -1,3 +1,5 @@
+import dayjs from 'dayjs';
+
 export const Event = ({ event, isOverlapping, isCompact = false }) => {
   const eventColors = [
     'bg-purple-100 border-l-4 border-purple-300',

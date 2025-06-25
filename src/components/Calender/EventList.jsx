@@ -1,4 +1,5 @@
 import { Event } from './CalendarDay';
+import dayjs from 'dayjs';
 
 export const EventList = ({ events, overlapStatus }) => {
   if (events.length === 0) {
