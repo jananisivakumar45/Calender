@@ -1,0 +1,50 @@
+[
+    {
+    "id": 0,
+    "title": "Team Meeting",
+    "date": "2025-07    -15",
+    "time": "10:00",
+    "duration": 60,
+    "description": "Weekly team sync"
+  },
+  {
+    "id": 1,
+    "title": "Team Meeting",
+    "date": "2023-11-15",
+    "time": "10:00",
+    "duration": 60,
+    "description": "Weekly team sync"
+  },
+  {
+    "id": 2,
+    "title": "Client Call",
+    "date": "2023-11-15",
+    "time": "11:30",
+    "duration": 30,
+    "description": "Discuss project requirements"
+  },
+  {
+    "id": 3,
+    "title": "Lunch Appointment",
+    "date": "2023-11-20",
+    "time": "12:00",
+    "duration": 60,
+    "description": "Lunch with stakeholders"
+  },
+  {
+    "id": 4,
+    "title": "Code Review",
+    "date": "2023-11-22",
+    "time": "14:00",
+    "duration": 120,
+    "description": "Review new features"
+  },
+  {
+    "id": 5,
+    "title": "Planning Session",
+    "date": "2023-11-15",
+    "time": "09:00",
+    "duration": 90,
+    "description": "Sprint planning"
+  }
+]
