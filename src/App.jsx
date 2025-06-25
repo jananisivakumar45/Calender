@@ -13,9 +13,6 @@ function App() {
 
   return (
     <div className="h-screen bg-orange-50">
-      <h1 className="text-3xl font-bold text-orange-800 p-4 text-center">
-        Orange Calendar
-      </h1>
       <Calendar events={events} />
     </div>
   );
